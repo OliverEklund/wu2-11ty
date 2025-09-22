@@ -1,24 +1,16 @@
 {
-  "items": [
-    {
-      "text": "Home",
-      "url": "/"
-    },
-    {
-      "text": "About",
-      "url": "/about-us/"
-    },
-    {
-      "text": "Work",
-      "url": "/work/"
-    },
-    {
-      "text": "Blog",
-      "url": "/blog/"
-    },
-    {
-      "text": "Contact",
-      "url": "/contact/"
-    }
-  ]
+    "items": [
+        {
+        "title": "home",
+        "url": "/"
+        },
+        {
+        "title": "POSTS",
+        "url": "/posts/"
+        },
+        {
+        "title": "about",
+        "url": "/about"
+        }
+    ]
 }
